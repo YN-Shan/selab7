@@ -1,0 +1,238 @@
+
+src/rc/Cell.java:12	Parameter 'column' is not assigned and could be declared final
+src/rc/Cell.java:12	Parameter 'row' is not assigned and could be declared final
+src/rc/Cell.java:18	Method names should not contain underscores
+src/rc/Cell.java:22	Method names should not contain underscores
+src/rc/Cell.java:26	Method names should not contain underscores
+src/rc/Cell.java:34	Parameter 'row' is not assigned and could be declared final
+src/rc/Cell.java:42	Parameter 'column' is not assigned and could be declared final
+src/rc/I.java:8	It is a good practice to call super() in a constructor
+src/rc/I.java:8	Parameter 'column' is not assigned and could be declared final
+src/rc/I.java:8	Parameter 'row' is not assigned and could be declared final
+src/rc/J.java:8	It is a good practice to call super() in a constructor
+src/rc/J.java:8	Parameter 'column' is not assigned and could be declared final
+src/rc/J.java:8	Parameter 'row' is not assigned and could be declared final
+src/rc/L.java:9	It is a good practice to call super() in a constructor
+src/rc/L.java:9	Parameter 'column' is not assigned and could be declared final
+src/rc/L.java:9	Parameter 'row' is not assigned and could be declared final
+src/rc/O.java:8	It is a good practice to call super() in a constructor
+src/rc/O.java:8	Parameter 'column' is not assigned and could be declared final
+src/rc/O.java:8	Parameter 'row' is not assigned and could be declared final
+src/rc/S.java:8	It is a good practice to call super() in a constructor
+src/rc/S.java:8	Parameter 'column' is not assigned and could be declared final
+src/rc/S.java:8	Parameter 'row' is not assigned and could be declared final
+src/rc/T.java:8	It is a good practice to call super() in a constructor
+src/rc/T.java:8	Parameter 'column' is not assigned and could be declared final
+src/rc/T.java:8	Parameter 'row' is not assigned and could be declared final
+src/rc/Tetris.java:11	The class 'Tetris' has a Cyclomatic Complexity of 3 (Highest = 17).
+src/rc/Tetris.java:11	This class has too many methods, consider refactoring it.
+src/rc/Tetris.java:17	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/rc/Tetris.java:17	Private field 'scorePool' could be made final; it is only initialized in the declaration or constructor.
+src/rc/Tetris.java:18	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/rc/Tetris.java:19	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/rc/Tetris.java:28	Parameter 'gameState' is not assigned and could be declared final
+src/rc/Tetris.java:32	Returning 'wall' may expose an internal array.
+src/rc/Tetris.java:34	Parameter 'wall' is not assigned and could be declared final
+src/rc/Tetris.java:34	The user-supplied array 'wall' is stored directly.
+src/rc/Tetris.java:40	Parameter 'currentOne' is not assigned and could be declared final
+src/rc/Tetris.java:46	Parameter 'nextOne' is not assigned and could be declared final
+src/rc/Tetris.java:51	Avoid variables with short names like g
+src/rc/Tetris.java:51	Parameter 'g' is not assigned and could be declared final
+src/rc/Tetris.java:60	Avoid variables with short names like g
+src/rc/Tetris.java:66	Avoid variables with short names like g
+src/rc/Tetris.java:83	Avoid variables with short names like g
+src/rc/Tetris.java:84	Avoid using for statements without curly braces
+src/rc/Tetris.java:86	Avoid variables with short names like x
+src/rc/Tetris.java:86	Local variable 'x' could be declared final
+src/rc/Tetris.java:87	Local variable 'y' could be declared final
+src/rc/Tetris.java:88	Local variable 'cell' could be declared final
+src/rc/Tetris.java:104	Local variable 'cells' could be declared final
+src/rc/Tetris.java:106	Local variable 'x' could be declared final
+src/rc/Tetris.java:129	Avoid using if statements without curly braces
+src/rc/Tetris.java:130	A method should have only one exit point, and that should be the last statement in the method
+src/rc/Tetris.java:138	Avoid using if statements without curly braces
+src/rc/Tetris.java:139	A method should have only one exit point, and that should be the last statement in the method
+src/rc/Tetris.java:145	Found 'DD'-anomaly for variable 'lines' (lines '145'-'151').
+src/rc/Tetris.java:151	Found 'DD'-anomaly for variable 'lines' (lines '151'-'151').
+src/rc/Tetris.java:152	Avoid instantiating new objects inside loops
+src/rc/Tetris.java:156	Avoid instantiating new objects inside loops
+src/rc/Tetris.java:170	Avoid using if statements without curly braces
+src/rc/Tetris.java:171	A method should have only one exit point, and that should be the last statement in the method
+src/rc/Tetris.java:186	Avoid using if statements without curly braces
+src/rc/Tetris.java:187	A method should have only one exit point, and that should be the last statement in the method
+src/rc/Tetris.java:197	Avoid using if statements without curly braces
+src/rc/Tetris.java:198	A method should have only one exit point, and that should be the last statement in the method
+src/rc/Tetris.java:237	Avoid if (x != y) ..; else ..;
+src/rc/Tetris.java:242	Avoid using if...else statements without curly braces
+src/rc/Tetris.java:245	Method names should not start with capital letters
+src/rc/Tetris.java:252	The method 'start' has a Cyclomatic Complexity of 17.
+src/rc/Tetris.java:252	The method start() has an NPath complexity of 810
+src/rc/Tetris.java:255	The method 'keyPressed' has a Cyclomatic Complexity of 11.
+src/rc/Tetris.java:258	These nested if statements could be combined
+src/rc/Tetris.java:262	These nested if statements could be combined
+src/rc/Tetris.java:273	Switch statements should have a default label
+src/rc/Tetris.java:300	Avoid printStackTrace(); use a logger call instead.
+src/rc/Tetris.java:308	Avoid if (x != y) ..; else ..;
+src/rc/TetrisTest.java:9	This class has too many methods, consider refactoring it.
+src/rc/TetrisTest.java:11	Avoid variables with short names like T
+src/rc/TetrisTest.java:11	The field name indicates a constant but its modifiers do not
+src/rc/TetrisTest.java:11	Variables should start with a lowercase character
+src/rc/TetrisTest.java:17	Found 'DD'-anomaly for variable 'wall' (lines '17'-'20').
+src/rc/TetrisTest.java:17	Found 'DD'-anomaly for variable 'wall' (lines '17'-'22').
+src/rc/TetrisTest.java:18	Avoid using for statements without curly braces
+src/rc/TetrisTest.java:20	Avoid instantiating new objects inside loops
+src/rc/TetrisTest.java:20	Found 'DD'-anomaly for variable 'wall' (lines '20'-'20').
+src/rc/TetrisTest.java:20	Found 'DD'-anomaly for variable 'wall' (lines '20'-'22').
+src/rc/TetrisTest.java:22	Assigning an Object to null is a code smell.  Consider refactoring.
+src/rc/TetrisTest.java:22	Found 'DD'-anomaly for variable 'wall' (lines '22'-'23').
+src/rc/TetrisTest.java:23	Assigning an Object to null is a code smell.  Consider refactoring.
+src/rc/TetrisTest.java:23	Found 'DD'-anomaly for variable 'wall' (lines '23'-'24').
+src/rc/TetrisTest.java:24	Assigning an Object to null is a code smell.  Consider refactoring.
+src/rc/TetrisTest.java:24	Found 'DD'-anomaly for variable 'wall' (lines '24'-'25').
+src/rc/TetrisTest.java:25	Assigning an Object to null is a code smell.  Consider refactoring.
+src/rc/TetrisTest.java:25	Found 'DD'-anomaly for variable 'wall' (lines '25'-'26').
+src/rc/TetrisTest.java:26	Assigning an Object to null is a code smell.  Consider refactoring.
+src/rc/TetrisTest.java:26	Found 'DD'-anomaly for variable 'wall' (lines '26'-'27').
+src/rc/TetrisTest.java:27	Found 'DD'-anomaly for variable 'wall' (lines '27'-'28').
+src/rc/TetrisTest.java:28	Found 'DD'-anomaly for variable 'wall' (lines '28'-'29').
+src/rc/TetrisTest.java:29	Found 'DD'-anomaly for variable 'wall' (lines '29'-'30').
+src/rc/TetrisTest.java:30	Found 'DD'-anomaly for variable 'wall' (lines '30'-'31').
+src/rc/TetrisTest.java:31	Found 'DD'-anomaly for variable 'wall' (lines '31'-'32').
+src/rc/TetrisTest.java:32	Found 'DD'-anomaly for variable 'wall' (lines '32'-'33').
+src/rc/TetrisTest.java:40	Local variable 'flag' could be declared final
+src/rc/TetrisTest.java:46	Local variable 'fullline' could be declared final
+src/rc/TetrisTest.java:47	Local variable 'notfullline' could be declared final
+src/rc/TetrisTest.java:54	Local variable 'dropable' could be declared final
+src/rc/TetrisTest.java:61	Avoid variables with short names like w
+src/rc/TetrisTest.java:61	Found 'DD'-anomaly for variable 'w' (lines '61'-'62').
+src/rc/TetrisTest.java:63	Avoid variables with short names like t
+src/rc/TetrisTest.java:63	Found 'DD'-anomaly for variable 't' (lines '63'-'64').
+src/rc/TetrisTest.java:65	Avoid variables with short names like cs
+src/rc/TetrisTest.java:65	Local variable 'cs' could be declared final
+src/rc/TetrisTest.java:87	Avoid variables with short names like t
+src/rc/TetrisTest.java:87	Found 'DD'-anomaly for variable 't' (lines '87'-'88').
+src/rc/TetrisTest.java:89	Found 'DD'-anomaly for variable 'cs' (lines '89'-'90').
+src/rc/TetrisTest.java:90	Found 'DD'-anomaly for variable 'cs' (lines '90'-'101').
+src/rc/TetrisTest.java:91	Found 'DD'-anomaly for variable 'row1' (lines '91'-'94').
+src/rc/TetrisTest.java:91	Found 'DU'-anomaly for variable 'row1' (lines '91'-'112').
+src/rc/TetrisTest.java:92	Found 'DD'-anomaly for variable 'col1' (lines '92'-'95').
+src/rc/TetrisTest.java:92	Found 'DU'-anomaly for variable 'col1' (lines '92'-'112').
+src/rc/TetrisTest.java:94	Found 'DD'-anomaly for variable 'row1' (lines '94'-'94').
+src/rc/TetrisTest.java:94	Found 'DU'-anomaly for variable 'row1' (lines '94'-'112').
+src/rc/TetrisTest.java:95	Found 'DD'-anomaly for variable 'col1' (lines '95'-'95').
+src/rc/TetrisTest.java:95	Found 'DU'-anomaly for variable 'col1' (lines '95'-'112').
+src/rc/TetrisTest.java:97	Found 'DD'-anomaly for variable 'row2' (lines '97'-'103').
+src/rc/TetrisTest.java:97	Found 'DU'-anomaly for variable 'row2' (lines '97'-'112').
+src/rc/TetrisTest.java:98	Found 'DD'-anomaly for variable 'col2' (lines '98'-'104').
+src/rc/TetrisTest.java:98	Found 'DU'-anomaly for variable 'col2' (lines '98'-'112').
+src/rc/TetrisTest.java:101	Found 'DU'-anomaly for variable 'cs' (lines '101'-'112').
+src/rc/TetrisTest.java:103	Found 'DD'-anomaly for variable 'row2' (lines '103'-'103').
+src/rc/TetrisTest.java:103	Found 'DU'-anomaly for variable 'row2' (lines '103'-'112').
+src/rc/TetrisTest.java:104	Found 'DD'-anomaly for variable 'col2' (lines '104'-'104').
+src/rc/TetrisTest.java:104	Found 'DU'-anomaly for variable 'col2' (lines '104'-'112').
+src/rc/TetrisTest.java:106	Found 'DD'-anomaly for variable 'alreadymoved' (lines '106'-'109').
+src/rc/TetrisTest.java:108	Avoid using if statements without curly braces
+src/rc/TetrisTest.java:109	Found 'DD'-anomaly for variable 'alreadymoved' (lines '109'-'109').
+src/rc/TetrisTest.java:116	Found 'DD'-anomaly for variable 't' (lines '116'-'117').
+src/rc/TetrisTest.java:118	Found 'DD'-anomaly for variable 'cs' (lines '118'-'119').
+src/rc/TetrisTest.java:119	Found 'DD'-anomaly for variable 'cs' (lines '119'-'130').
+src/rc/TetrisTest.java:120	Found 'DD'-anomaly for variable 'row1' (lines '120'-'123').
+src/rc/TetrisTest.java:120	Found 'DU'-anomaly for variable 'row1' (lines '120'-'141').
+src/rc/TetrisTest.java:121	Found 'DD'-anomaly for variable 'col1' (lines '121'-'124').
+src/rc/TetrisTest.java:121	Found 'DU'-anomaly for variable 'col1' (lines '121'-'141').
+src/rc/TetrisTest.java:123	Found 'DD'-anomaly for variable 'row1' (lines '123'-'123').
+src/rc/TetrisTest.java:123	Found 'DU'-anomaly for variable 'row1' (lines '123'-'141').
+src/rc/TetrisTest.java:124	Found 'DD'-anomaly for variable 'col1' (lines '124'-'124').
+src/rc/TetrisTest.java:124	Found 'DU'-anomaly for variable 'col1' (lines '124'-'141').
+src/rc/TetrisTest.java:126	Found 'DD'-anomaly for variable 'row2' (lines '126'-'132').
+src/rc/TetrisTest.java:126	Found 'DU'-anomaly for variable 'row2' (lines '126'-'141').
+src/rc/TetrisTest.java:127	Found 'DD'-anomaly for variable 'col2' (lines '127'-'133').
+src/rc/TetrisTest.java:127	Found 'DU'-anomaly for variable 'col2' (lines '127'-'141').
+src/rc/TetrisTest.java:130	Found 'DU'-anomaly for variable 'cs' (lines '130'-'141').
+src/rc/TetrisTest.java:132	Found 'DD'-anomaly for variable 'row2' (lines '132'-'132').
+src/rc/TetrisTest.java:132	Found 'DU'-anomaly for variable 'row2' (lines '132'-'141').
+src/rc/TetrisTest.java:133	Found 'DD'-anomaly for variable 'col2' (lines '133'-'133').
+src/rc/TetrisTest.java:133	Found 'DU'-anomaly for variable 'col2' (lines '133'-'141').
+src/rc/TetrisTest.java:135	Found 'DD'-anomaly for variable 'alreadymoved' (lines '135'-'138').
+src/rc/TetrisTest.java:137	Avoid using if statements without curly braces
+src/rc/TetrisTest.java:138	Found 'DD'-anomaly for variable 'alreadymoved' (lines '138'-'138').
+src/rc/TetrisTest.java:146	Found 'DD'-anomaly for variable 't' (lines '146'-'147').
+src/rc/TetrisTest.java:148	Found 'DD'-anomaly for variable 'cs' (lines '148'-'159').
+src/rc/TetrisTest.java:149	Found 'DD'-anomaly for variable 'row1' (lines '149'-'152').
+src/rc/TetrisTest.java:149	Found 'DU'-anomaly for variable 'row1' (lines '149'-'171').
+src/rc/TetrisTest.java:150	Found 'DD'-anomaly for variable 'col1' (lines '150'-'153').
+src/rc/TetrisTest.java:150	Found 'DU'-anomaly for variable 'col1' (lines '150'-'171').
+src/rc/TetrisTest.java:152	Found 'DD'-anomaly for variable 'row1' (lines '152'-'152').
+src/rc/TetrisTest.java:152	Found 'DU'-anomaly for variable 'row1' (lines '152'-'171').
+src/rc/TetrisTest.java:153	Found 'DD'-anomaly for variable 'col1' (lines '153'-'153').
+src/rc/TetrisTest.java:153	Found 'DU'-anomaly for variable 'col1' (lines '153'-'171').
+src/rc/TetrisTest.java:156	Found 'DD'-anomaly for variable 'row2' (lines '156'-'161').
+src/rc/TetrisTest.java:156	Found 'DU'-anomaly for variable 'row2' (lines '156'-'171').
+src/rc/TetrisTest.java:157	Found 'DD'-anomaly for variable 'col2' (lines '157'-'162').
+src/rc/TetrisTest.java:157	Found 'DU'-anomaly for variable 'col2' (lines '157'-'171').
+src/rc/TetrisTest.java:159	Found 'DU'-anomaly for variable 'cs' (lines '159'-'171').
+src/rc/TetrisTest.java:161	Found 'DD'-anomaly for variable 'row2' (lines '161'-'161').
+src/rc/TetrisTest.java:161	Found 'DU'-anomaly for variable 'row2' (lines '161'-'171').
+src/rc/TetrisTest.java:162	Found 'DD'-anomaly for variable 'col2' (lines '162'-'162').
+src/rc/TetrisTest.java:162	Found 'DU'-anomaly for variable 'col2' (lines '162'-'171').
+src/rc/TetrisTest.java:164	Avoid excessively long variable names like alreadysoftdropped
+src/rc/TetrisTest.java:164	Found 'DD'-anomaly for variable 'alreadysoftdropped' (lines '164'-'167').
+src/rc/TetrisTest.java:167	Found 'DD'-anomaly for variable 'alreadysoftdropped' (lines '167'-'167').
+src/rc/TetrisTest.java:175	Found 'DD'-anomaly for variable 't' (lines '175'-'191').
+src/rc/TetrisTest.java:176	Found 'DD'-anomaly for variable 't1' (lines '176'-'177').
+src/rc/TetrisTest.java:181	Found 'DD'-anomaly for variable 'row1' (lines '181'-'184').
+src/rc/TetrisTest.java:182	Found 'DD'-anomaly for variable 'col1' (lines '182'-'185').
+src/rc/TetrisTest.java:184	Found 'DD'-anomaly for variable 'row1' (lines '184'-'184').
+src/rc/TetrisTest.java:184	Found 'DU'-anomaly for variable 'row1' (lines '184'-'203').
+src/rc/TetrisTest.java:185	Found 'DD'-anomaly for variable 'col1' (lines '185'-'185').
+src/rc/TetrisTest.java:185	Found 'DU'-anomaly for variable 'col1' (lines '185'-'203').
+src/rc/TetrisTest.java:187	Found 'DD'-anomaly for variable 'row2' (lines '187'-'194').
+src/rc/TetrisTest.java:188	Found 'DD'-anomaly for variable 'col2' (lines '188'-'195').
+src/rc/TetrisTest.java:188	Found 'DU'-anomaly for variable 'col2' (lines '188'-'203').
+src/rc/TetrisTest.java:192	Found 'DU'-anomaly for variable 'cs' (lines '192'-'203').
+src/rc/TetrisTest.java:194	Found 'DD'-anomaly for variable 'row2' (lines '194'-'194').
+src/rc/TetrisTest.java:194	Found 'DU'-anomaly for variable 'row2' (lines '194'-'203').
+src/rc/TetrisTest.java:195	Found 'DD'-anomaly for variable 'col2' (lines '195'-'195').
+src/rc/TetrisTest.java:195	Found 'DU'-anomaly for variable 'col2' (lines '195'-'203').
+src/rc/TetrisTest.java:197	Found 'DD'-anomaly for variable 'alreadyrotated' (lines '197'-'200').
+src/rc/TetrisTest.java:199	Avoid using if statements without curly braces
+src/rc/TetrisTest.java:200	Found 'DD'-anomaly for variable 'alreadyrotated' (lines '200'-'200').
+src/rc/TetrisTest.java:210	Avoid using for statements without curly braces
+src/rc/TetrisTest.java:212	Avoid instantiating new objects inside loops
+src/rc/Tetromino.java:7	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/rc/Tetromino.java:8	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/rc/Tetromino.java:11	Avoid variables with short names like c0
+src/rc/Tetromino.java:11	Avoid variables with short names like c1
+src/rc/Tetromino.java:11	Avoid variables with short names like c2
+src/rc/Tetromino.java:11	Avoid variables with short names like c3
+src/rc/Tetromino.java:11	Avoid variables with short names like r0
+src/rc/Tetromino.java:11	Use explicit scoping instead of the default package private level
+src/rc/Tetromino.java:18	Parameter 'c0' is not assigned and could be declared final
+src/rc/Tetromino.java:18	Parameter 'c1' is not assigned and could be declared final
+src/rc/Tetromino.java:18	Parameter 'c2' is not assigned and could be declared final
+src/rc/Tetromino.java:18	Parameter 'c3' is not assigned and could be declared final
+src/rc/Tetromino.java:18	Parameter 'r0' is not assigned and could be declared final
+src/rc/Tetromino.java:96	Returning 'cells' may expose an internal array.
+src/rc/Tetromino.java:99	The user-supplied array 'cells' is stored directly.
+src/rc/Tetromino.java:104	Avoid using for statements without curly braces
+src/rc/Tetromino.java:109	Avoid using for statements without curly braces
+src/rc/Tetromino.java:114	Avoid using for statements without curly braces
+src/rc/Tetromino.java:119	Avoid unnecessary comparisons in boolean expressions
+src/rc/Tetromino.java:120	Avoid using if...else statements without curly braces
+src/rc/Tetromino.java:122	Avoid using if...else statements without curly braces
+src/rc/Tetromino.java:123	Local variable 's' could be declared final
+src/rc/Tetromino.java:124	Local variable 'c' could be declared final
+src/rc/Tetromino.java:125	Local variable 'row' could be declared final
+src/rc/Tetromino.java:126	Local variable 'column' could be declared final
+src/rc/Tetromino.java:136	Found 'DD'-anomaly for variable 't' (lines '136'-'139').
+src/rc/Tetromino.java:136	Found 'DD'-anomaly for variable 't' (lines '136'-'140').
+src/rc/Tetromino.java:136	Found 'DD'-anomaly for variable 't' (lines '136'-'141').
+src/rc/Tetromino.java:136	Found 'DD'-anomaly for variable 't' (lines '136'-'142').
+src/rc/Tetromino.java:136	Found 'DD'-anomaly for variable 't' (lines '136'-'143').
+src/rc/Tetromino.java:136	Found 'DD'-anomaly for variable 't' (lines '136'-'144').
+src/rc/Tetromino.java:136	Found 'DD'-anomaly for variable 't' (lines '136'-'145').
+src/rc/Tetromino.java:137	Local variable 'num' could be declared final
+src/rc/Tetromino.java:138	Switch statements should have a default label
+src/rc/Z.java:9	It is a good practice to call super() in a constructor
+src/rc/Z.java:9	Parameter 'column' is not assigned and could be declared final
+src/rc/Z.java:9	Parameter 'row' is not assigned and could be declared final

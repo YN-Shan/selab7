@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.5" timestamp="2020-06-03T13:46:04.929">
+<file name="src/rc/Cell.java">
+<violation beginline="12" endline="12" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Cell" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'column' is not assigned and could be declared final
+</violation>
+<violation beginline="12" endline="12" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Cell" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'row' is not assigned and could be declared final
+</violation>
+<violation beginline="18" endline="18" begincolumn="0" endcolumn="0" rule="MethodNamingConventions" ruleset="Naming Rules" package="rc" class="Cell" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#MethodNamingConventions" priority="1">
+Method names should not contain underscores
+</violation>
+<violation beginline="22" endline="22" begincolumn="0" endcolumn="0" rule="MethodNamingConventions" ruleset="Naming Rules" package="rc" class="Cell" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#MethodNamingConventions" priority="1">
+Method names should not contain underscores
+</violation>
+<violation beginline="26" endline="26" begincolumn="0" endcolumn="0" rule="MethodNamingConventions" ruleset="Naming Rules" package="rc" class="Cell" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#MethodNamingConventions" priority="1">
+Method names should not contain underscores
+</violation>
+<violation beginline="34" endline="34" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Cell" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'row' is not assigned and could be declared final
+</violation>
+<violation beginline="42" endline="42" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Cell" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'column' is not assigned and could be declared final
+</violation>
+</file>
+<file name="src/rc/I.java">
+<violation beginline="8" endline="17" begincolumn="0" endcolumn="0" rule="CallSuperInConstructor" ruleset="Controversial Rules" package="rc" class="I" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#CallSuperInConstructor" priority="3">
+It is a good practice to call super() in a constructor
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="I" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'column' is not assigned and could be declared final
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="I" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'row' is not assigned and could be declared final
+</violation>
+</file>
+<file name="src/rc/J.java">
+<violation beginline="8" endline="19" begincolumn="0" endcolumn="0" rule="CallSuperInConstructor" ruleset="Controversial Rules" package="rc" class="J" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#CallSuperInConstructor" priority="3">
+It is a good practice to call super() in a constructor
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="J" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'column' is not assigned and could be declared final
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="J" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'row' is not assigned and could be declared final
+</violation>
+</file>
+<file name="src/rc/L.java">
+<violation beginline="9" endline="20" begincolumn="0" endcolumn="0" rule="CallSuperInConstructor" ruleset="Controversial Rules" package="rc" class="L" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#CallSuperInConstructor" priority="3">
+It is a good practice to call super() in a constructor
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="L" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'column' is not assigned and could be declared final
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="L" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'row' is not assigned and could be declared final
+</violation>
+</file>
+<file name="src/rc/O.java">
+<violation beginline="8" endline="14" begincolumn="0" endcolumn="0" rule="CallSuperInConstructor" ruleset="Controversial Rules" package="rc" class="O" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#CallSuperInConstructor" priority="3">
+It is a good practice to call super() in a constructor
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="O" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'column' is not assigned and could be declared final
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="O" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'row' is not assigned and could be declared final
+</violation>
+</file>
+<file name="src/rc/S.java">
+<violation beginline="8" endline="17" begincolumn="0" endcolumn="0" rule="CallSuperInConstructor" ruleset="Controversial Rules" package="rc" class="S" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#CallSuperInConstructor" priority="3">
+It is a good practice to call super() in a constructor
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="S" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'column' is not assigned and could be declared final
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="S" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'row' is not assigned and could be declared final
+</violation>
+</file>
+<file name="src/rc/T.java">
+<violation beginline="8" endline="18" begincolumn="0" endcolumn="0" rule="CallSuperInConstructor" ruleset="Controversial Rules" package="rc" class="T" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#CallSuperInConstructor" priority="3">
+It is a good practice to call super() in a constructor
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="T" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'column' is not assigned and could be declared final
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="T" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'row' is not assigned and could be declared final
+</violation>
+</file>
+<file name="src/rc/Tetris.java">
+<violation beginline="11" endline="333" begincolumn="0" endcolumn="0" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/codesize.html#CyclomaticComplexity" priority="3">
+The class 'Tetris' has a Cyclomatic Complexity of 3 (Highest = 17).
+</violation>
+<violation beginline="11" endline="333" begincolumn="0" endcolumn="0" rule="TooManyMethods" ruleset="Code Size Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/codesize.html#TooManyMethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="17" endline="17" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="JavaBean Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/javabeans.html#BeanMembersShouldSerialize" priority="3">
+Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="17" endline="17" begincolumn="0" endcolumn="0" rule="ImmutableField" ruleset="Design Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ImmutableField" priority="3">
+Private field 'scorePool' could be made final; it is only initialized in the declaration or constructor.
+</violation>
+<violation beginline="18" endline="18" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="JavaBean Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/javabeans.html#BeanMembersShouldSerialize" priority="3">
+Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="19" endline="19" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="JavaBean Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/javabeans.html#BeanMembersShouldSerialize" priority="3">
+Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="28" endline="28" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'gameState' is not assigned and could be declared final
+</violation>
+<violation beginline="32" endline="32" begincolumn="0" endcolumn="0" rule="MethodReturnsInternalArray" ruleset="Security Code Guidelines" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/sunsecure.html#MethodReturnsInternalArray" priority="3">
+Returning 'wall' may expose an internal array.
+</violation>
+<violation beginline="34" endline="34" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'wall' is not assigned and could be declared final
+</violation>
+<violation beginline="34" endline="34" begincolumn="0" endcolumn="0" rule="ArrayIsStoredDirectly" ruleset="Security Code Guidelines" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/sunsecure.html#ArrayIsStoredDirectly" priority="3">
+The user-supplied array 'wall' is stored directly.
+</violation>
+<violation beginline="40" endline="40" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'currentOne' is not assigned and could be declared final
+</violation>
+<violation beginline="46" endline="46" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'nextOne' is not assigned and could be declared final
+</violation>
+<violation beginline="51" endline="51" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like g
+</violation>
+<violation beginline="51" endline="51" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'g' is not assigned and could be declared final
+</violation>
+<violation beginline="60" endline="60" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like g
+</violation>
+<violation beginline="66" endline="66" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like g
+</violation>
+<violation beginline="83" endline="83" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like g
+</violation>
+<violation beginline="84" endline="100" begincolumn="0" endcolumn="0" rule="ForLoopsMustUseBraces" ruleset="Braces Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#ForLoopsMustUseBraces" priority="3">
+Avoid using for statements without curly braces
+</violation>
+<violation beginline="86" endline="86" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like x
+</violation>
+<violation beginline="86" endline="86" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'x' could be declared final
+</violation>
+<violation beginline="87" endline="87" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'y' could be declared final
+</violation>
+<violation beginline="88" endline="88" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'cell' could be declared final
+</violation>
+<violation beginline="104" endline="104" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'cells' could be declared final
+</violation>
+<violation beginline="106" endline="106" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'x' could be declared final
+</violation>
+<violation beginline="129" endline="130" begincolumn="0" endcolumn="0" rule="IfStmtsMustUseBraces" ruleset="Braces Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="130" endline="130" begincolumn="0" endcolumn="0" rule="OnlyOneReturn" ruleset="Controversial Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#OnlyOneReturn" priority="3">
+A method should have only one exit point, and that should be the last statement in the method
+</violation>
+<violation beginline="138" endline="139" begincolumn="0" endcolumn="0" rule="IfStmtsMustUseBraces" ruleset="Braces Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="139" endline="139" begincolumn="0" endcolumn="0" rule="OnlyOneReturn" ruleset="Controversial Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#OnlyOneReturn" priority="3">
+A method should have only one exit point, and that should be the last statement in the method
+</violation>
+<violation beginline="145" endline="151" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'lines' (lines '145'-'151').
+</violation>
+<violation beginline="151" endline="151" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'lines' (lines '151'-'151').
+</violation>
+<violation beginline="152" endline="152" begincolumn="0" endcolumn="0" rule="AvoidInstantiatingObjectsInLoops" ruleset="Optimization Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#AvoidInstantiatingObjectsInLoops" priority="3">
+Avoid instantiating new objects inside loops
+</violation>
+<violation beginline="156" endline="156" begincolumn="0" endcolumn="0" rule="AvoidInstantiatingObjectsInLoops" ruleset="Optimization Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#AvoidInstantiatingObjectsInLoops" priority="3">
+Avoid instantiating new objects inside loops
+</violation>
+<violation beginline="170" endline="171" begincolumn="0" endcolumn="0" rule="IfStmtsMustUseBraces" ruleset="Braces Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="171" endline="171" begincolumn="0" endcolumn="0" rule="OnlyOneReturn" ruleset="Controversial Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#OnlyOneReturn" priority="3">
+A method should have only one exit point, and that should be the last statement in the method
+</violation>
+<violation beginline="186" endline="187" begincolumn="0" endcolumn="0" rule="IfStmtsMustUseBraces" ruleset="Braces Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="187" endline="187" begincolumn="0" endcolumn="0" rule="OnlyOneReturn" ruleset="Controversial Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#OnlyOneReturn" priority="3">
+A method should have only one exit point, and that should be the last statement in the method
+</violation>
+<violation beginline="197" endline="198" begincolumn="0" endcolumn="0" rule="IfStmtsMustUseBraces" ruleset="Braces Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="198" endline="198" begincolumn="0" endcolumn="0" rule="OnlyOneReturn" ruleset="Controversial Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#OnlyOneReturn" priority="3">
+A method should have only one exit point, and that should be the last statement in the method
+</violation>
+<violation beginline="237" endline="242" begincolumn="0" endcolumn="0" rule="ConfusingTernary" ruleset="Design Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ConfusingTernary" priority="3">
+Avoid if (x != y) ..; else ..;
+</violation>
+<violation beginline="242" endline="242" begincolumn="0" endcolumn="0" rule="IfElseStmtsMustUseBraces" ruleset="Braces Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#IfElseStmtsMustUseBraces" priority="3">
+Avoid using if...else statements without curly braces
+</violation>
+<violation beginline="245" endline="245" begincolumn="0" endcolumn="0" rule="MethodNamingConventions" ruleset="Naming Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#MethodNamingConventions" priority="1">
+Method names should not start with capital letters
+</violation>
+<violation beginline="252" endline="319" begincolumn="0" endcolumn="0" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/codesize.html#CyclomaticComplexity" priority="3">
+The method 'start' has a Cyclomatic Complexity of 17.
+</violation>
+<violation beginline="252" endline="319" begincolumn="0" endcolumn="0" rule="NPathComplexity" ruleset="Code Size Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/codesize.html#NPathComplexity" priority="3">
+The method start() has an NPath complexity of 810
+</violation>
+<violation beginline="255" endline="291" begincolumn="0" endcolumn="0" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/codesize.html#CyclomaticComplexity" priority="3">
+The method 'keyPressed' has a Cyclomatic Complexity of 11.
+</violation>
+<violation beginline="258" endline="259" begincolumn="0" endcolumn="0" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="262" endline="263" begincolumn="0" endcolumn="0" rule="CollapsibleIfStatements" ruleset="Basic Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="273" endline="289" begincolumn="0" endcolumn="0" rule="SwitchStmtsShouldHaveDefault" ruleset="Design Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#SwitchStmtsShouldHaveDefault" priority="3">
+Switch statements should have a default label
+</violation>
+<violation beginline="300" endline="300" begincolumn="0" endcolumn="0" rule="AvoidPrintStackTrace" ruleset="Java Logging Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/logging-java.html#AvoidPrintStackTrace" priority="3">
+Avoid printStackTrace(); use a logger call instead.
+</violation>
+<violation beginline="308" endline="314" begincolumn="0" endcolumn="0" rule="ConfusingTernary" ruleset="Design Rules" package="rc" class="Tetris" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#ConfusingTernary" priority="3">
+Avoid if (x != y) ..; else ..;
+</violation>
+</file>
+<file name="src/rc/TetrisTest.java">
+<violation beginline="9" endline="229" begincolumn="0" endcolumn="0" rule="TooManyMethods" ruleset="Code Size Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/codesize.html#TooManyMethods" priority="3">
+This class has too many methods, consider refactoring it.
+</violation>
+<violation beginline="11" endline="11" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like T
+</violation>
+<violation beginline="11" endline="11" begincolumn="0" endcolumn="0" rule="SuspiciousConstantFieldName" ruleset="Naming Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#SuspiciousConstantFieldName" priority="3">
+The field name indicates a constant but its modifiers do not
+</violation>
+<violation beginline="11" endline="11" begincolumn="0" endcolumn="0" rule="VariableNamingConventions" ruleset="Naming Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#VariableNamingConventions" priority="1">
+Variables should start with a lowercase character
+</violation>
+<violation beginline="17" endline="20" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '17'-'20').
+</violation>
+<violation beginline="17" endline="22" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '17'-'22').
+</violation>
+<violation beginline="18" endline="21" begincolumn="0" endcolumn="0" rule="ForLoopsMustUseBraces" ruleset="Braces Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#ForLoopsMustUseBraces" priority="3">
+Avoid using for statements without curly braces
+</violation>
+<violation beginline="20" endline="20" begincolumn="0" endcolumn="0" rule="AvoidInstantiatingObjectsInLoops" ruleset="Optimization Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#AvoidInstantiatingObjectsInLoops" priority="3">
+Avoid instantiating new objects inside loops
+</violation>
+<violation beginline="20" endline="20" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '20'-'20').
+</violation>
+<violation beginline="20" endline="22" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '20'-'22').
+</violation>
+<violation beginline="22" endline="22" begincolumn="0" endcolumn="0" rule="NullAssignment" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#NullAssignment" priority="3">
+Assigning an Object to null is a code smell.  Consider refactoring.
+</violation>
+<violation beginline="22" endline="23" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '22'-'23').
+</violation>
+<violation beginline="23" endline="23" begincolumn="0" endcolumn="0" rule="NullAssignment" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#NullAssignment" priority="3">
+Assigning an Object to null is a code smell.  Consider refactoring.
+</violation>
+<violation beginline="23" endline="24" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '23'-'24').
+</violation>
+<violation beginline="24" endline="24" begincolumn="0" endcolumn="0" rule="NullAssignment" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#NullAssignment" priority="3">
+Assigning an Object to null is a code smell.  Consider refactoring.
+</violation>
+<violation beginline="24" endline="25" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '24'-'25').
+</violation>
+<violation beginline="25" endline="25" begincolumn="0" endcolumn="0" rule="NullAssignment" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#NullAssignment" priority="3">
+Assigning an Object to null is a code smell.  Consider refactoring.
+</violation>
+<violation beginline="25" endline="26" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '25'-'26').
+</violation>
+<violation beginline="26" endline="26" begincolumn="0" endcolumn="0" rule="NullAssignment" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#NullAssignment" priority="3">
+Assigning an Object to null is a code smell.  Consider refactoring.
+</violation>
+<violation beginline="26" endline="27" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '26'-'27').
+</violation>
+<violation beginline="27" endline="28" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '27'-'28').
+</violation>
+<violation beginline="28" endline="29" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '28'-'29').
+</violation>
+<violation beginline="29" endline="30" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '29'-'30').
+</violation>
+<violation beginline="30" endline="31" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '30'-'31').
+</violation>
+<violation beginline="31" endline="32" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '31'-'32').
+</violation>
+<violation beginline="32" endline="33" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'wall' (lines '32'-'33').
+</violation>
+<violation beginline="40" endline="40" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'flag' could be declared final
+</violation>
+<violation beginline="46" endline="46" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'fullline' could be declared final
+</violation>
+<violation beginline="47" endline="47" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'notfullline' could be declared final
+</violation>
+<violation beginline="54" endline="54" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'dropable' could be declared final
+</violation>
+<violation beginline="61" endline="61" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like w
+</violation>
+<violation beginline="61" endline="62" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'w' (lines '61'-'62').
+</violation>
+<violation beginline="63" endline="63" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like t
+</violation>
+<violation beginline="63" endline="64" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 't' (lines '63'-'64').
+</violation>
+<violation beginline="65" endline="65" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like cs
+</violation>
+<violation beginline="65" endline="65" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'cs' could be declared final
+</violation>
+<violation beginline="87" endline="87" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like t
+</violation>
+<violation beginline="87" endline="88" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 't' (lines '87'-'88').
+</violation>
+<violation beginline="89" endline="90" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'cs' (lines '89'-'90').
+</violation>
+<violation beginline="90" endline="101" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'cs' (lines '90'-'101').
+</violation>
+<violation beginline="91" endline="94" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row1' (lines '91'-'94').
+</violation>
+<violation beginline="91" endline="112" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row1' (lines '91'-'112').
+</violation>
+<violation beginline="92" endline="95" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col1' (lines '92'-'95').
+</violation>
+<violation beginline="92" endline="112" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col1' (lines '92'-'112').
+</violation>
+<violation beginline="94" endline="94" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row1' (lines '94'-'94').
+</violation>
+<violation beginline="94" endline="112" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row1' (lines '94'-'112').
+</violation>
+<violation beginline="95" endline="95" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col1' (lines '95'-'95').
+</violation>
+<violation beginline="95" endline="112" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col1' (lines '95'-'112').
+</violation>
+<violation beginline="97" endline="103" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row2' (lines '97'-'103').
+</violation>
+<violation beginline="97" endline="112" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row2' (lines '97'-'112').
+</violation>
+<violation beginline="98" endline="104" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col2' (lines '98'-'104').
+</violation>
+<violation beginline="98" endline="112" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col2' (lines '98'-'112').
+</violation>
+<violation beginline="101" endline="112" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'cs' (lines '101'-'112').
+</violation>
+<violation beginline="103" endline="103" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row2' (lines '103'-'103').
+</violation>
+<violation beginline="103" endline="112" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row2' (lines '103'-'112').
+</violation>
+<violation beginline="104" endline="104" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col2' (lines '104'-'104').
+</violation>
+<violation beginline="104" endline="112" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col2' (lines '104'-'112').
+</violation>
+<violation beginline="106" endline="109" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'alreadymoved' (lines '106'-'109').
+</violation>
+<violation beginline="108" endline="109" begincolumn="0" endcolumn="0" rule="IfStmtsMustUseBraces" ruleset="Braces Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="109" endline="109" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'alreadymoved' (lines '109'-'109').
+</violation>
+<violation beginline="116" endline="117" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 't' (lines '116'-'117').
+</violation>
+<violation beginline="118" endline="119" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'cs' (lines '118'-'119').
+</violation>
+<violation beginline="119" endline="130" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'cs' (lines '119'-'130').
+</violation>
+<violation beginline="120" endline="123" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row1' (lines '120'-'123').
+</violation>
+<violation beginline="120" endline="141" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row1' (lines '120'-'141').
+</violation>
+<violation beginline="121" endline="124" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col1' (lines '121'-'124').
+</violation>
+<violation beginline="121" endline="141" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col1' (lines '121'-'141').
+</violation>
+<violation beginline="123" endline="123" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row1' (lines '123'-'123').
+</violation>
+<violation beginline="123" endline="141" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row1' (lines '123'-'141').
+</violation>
+<violation beginline="124" endline="124" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col1' (lines '124'-'124').
+</violation>
+<violation beginline="124" endline="141" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col1' (lines '124'-'141').
+</violation>
+<violation beginline="126" endline="132" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row2' (lines '126'-'132').
+</violation>
+<violation beginline="126" endline="141" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row2' (lines '126'-'141').
+</violation>
+<violation beginline="127" endline="133" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col2' (lines '127'-'133').
+</violation>
+<violation beginline="127" endline="141" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col2' (lines '127'-'141').
+</violation>
+<violation beginline="130" endline="141" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'cs' (lines '130'-'141').
+</violation>
+<violation beginline="132" endline="132" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row2' (lines '132'-'132').
+</violation>
+<violation beginline="132" endline="141" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row2' (lines '132'-'141').
+</violation>
+<violation beginline="133" endline="133" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col2' (lines '133'-'133').
+</violation>
+<violation beginline="133" endline="141" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col2' (lines '133'-'141').
+</violation>
+<violation beginline="135" endline="138" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'alreadymoved' (lines '135'-'138').
+</violation>
+<violation beginline="137" endline="138" begincolumn="0" endcolumn="0" rule="IfStmtsMustUseBraces" ruleset="Braces Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="138" endline="138" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'alreadymoved' (lines '138'-'138').
+</violation>
+<violation beginline="146" endline="147" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 't' (lines '146'-'147').
+</violation>
+<violation beginline="148" endline="159" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'cs' (lines '148'-'159').
+</violation>
+<violation beginline="149" endline="152" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row1' (lines '149'-'152').
+</violation>
+<violation beginline="149" endline="171" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row1' (lines '149'-'171').
+</violation>
+<violation beginline="150" endline="153" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col1' (lines '150'-'153').
+</violation>
+<violation beginline="150" endline="171" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col1' (lines '150'-'171').
+</violation>
+<violation beginline="152" endline="152" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row1' (lines '152'-'152').
+</violation>
+<violation beginline="152" endline="171" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row1' (lines '152'-'171').
+</violation>
+<violation beginline="153" endline="153" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col1' (lines '153'-'153').
+</violation>
+<violation beginline="153" endline="171" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col1' (lines '153'-'171').
+</violation>
+<violation beginline="156" endline="161" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row2' (lines '156'-'161').
+</violation>
+<violation beginline="156" endline="171" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row2' (lines '156'-'171').
+</violation>
+<violation beginline="157" endline="162" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col2' (lines '157'-'162').
+</violation>
+<violation beginline="157" endline="171" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col2' (lines '157'-'171').
+</violation>
+<violation beginline="159" endline="171" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'cs' (lines '159'-'171').
+</violation>
+<violation beginline="161" endline="161" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row2' (lines '161'-'161').
+</violation>
+<violation beginline="161" endline="171" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row2' (lines '161'-'171').
+</violation>
+<violation beginline="162" endline="162" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col2' (lines '162'-'162').
+</violation>
+<violation beginline="162" endline="171" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col2' (lines '162'-'171').
+</violation>
+<violation beginline="164" endline="164" begincolumn="0" endcolumn="0" rule="LongVariable" ruleset="Naming Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#LongVariable" priority="3">
+Avoid excessively long variable names like alreadysoftdropped
+</violation>
+<violation beginline="164" endline="167" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'alreadysoftdropped' (lines '164'-'167').
+</violation>
+<violation beginline="167" endline="167" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'alreadysoftdropped' (lines '167'-'167').
+</violation>
+<violation beginline="175" endline="191" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 't' (lines '175'-'191').
+</violation>
+<violation beginline="176" endline="177" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 't1' (lines '176'-'177').
+</violation>
+<violation beginline="181" endline="184" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row1' (lines '181'-'184').
+</violation>
+<violation beginline="182" endline="185" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col1' (lines '182'-'185').
+</violation>
+<violation beginline="184" endline="184" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row1' (lines '184'-'184').
+</violation>
+<violation beginline="184" endline="203" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row1' (lines '184'-'203').
+</violation>
+<violation beginline="185" endline="185" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col1' (lines '185'-'185').
+</violation>
+<violation beginline="185" endline="203" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col1' (lines '185'-'203').
+</violation>
+<violation beginline="187" endline="194" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row2' (lines '187'-'194').
+</violation>
+<violation beginline="188" endline="195" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col2' (lines '188'-'195').
+</violation>
+<violation beginline="188" endline="203" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col2' (lines '188'-'203').
+</violation>
+<violation beginline="192" endline="203" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'cs' (lines '192'-'203').
+</violation>
+<violation beginline="194" endline="194" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'row2' (lines '194'-'194').
+</violation>
+<violation beginline="194" endline="203" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'row2' (lines '194'-'203').
+</violation>
+<violation beginline="195" endline="195" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'col2' (lines '195'-'195').
+</violation>
+<violation beginline="195" endline="203" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DU'-anomaly for variable 'col2' (lines '195'-'203').
+</violation>
+<violation beginline="197" endline="200" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'alreadyrotated' (lines '197'-'200').
+</violation>
+<violation beginline="199" endline="200" begincolumn="0" endcolumn="0" rule="IfStmtsMustUseBraces" ruleset="Braces Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#IfStmtsMustUseBraces" priority="3">
+Avoid using if statements without curly braces
+</violation>
+<violation beginline="200" endline="200" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 'alreadyrotated' (lines '200'-'200').
+</violation>
+<violation beginline="210" endline="213" begincolumn="0" endcolumn="0" rule="ForLoopsMustUseBraces" ruleset="Braces Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#ForLoopsMustUseBraces" priority="3">
+Avoid using for statements without curly braces
+</violation>
+<violation beginline="212" endline="212" begincolumn="0" endcolumn="0" rule="AvoidInstantiatingObjectsInLoops" ruleset="Optimization Rules" package="rc" class="TetrisTest" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#AvoidInstantiatingObjectsInLoops" priority="3">
+Avoid instantiating new objects inside loops
+</violation>
+</file>
+<file name="src/rc/Tetromino.java">
+<violation beginline="7" endline="7" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="JavaBean Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/javabeans.html#BeanMembersShouldSerialize" priority="3">
+Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="8" endline="8" begincolumn="0" endcolumn="0" rule="BeanMembersShouldSerialize" ruleset="JavaBean Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/javabeans.html#BeanMembersShouldSerialize" priority="3">
+Found non-transient, non-static member. Please mark as transient or provide accessors.
+</violation>
+<violation beginline="11" endline="11" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like c0
+</violation>
+<violation beginline="11" endline="11" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like c1
+</violation>
+<violation beginline="11" endline="11" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like c2
+</violation>
+<violation beginline="11" endline="11" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like c3
+</violation>
+<violation beginline="11" endline="11" begincolumn="0" endcolumn="0" rule="ShortVariable" ruleset="Naming Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like r0
+</violation>
+<violation beginline="11" endline="11" begincolumn="0" endcolumn="0" rule="DefaultPackage" ruleset="Controversial Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DefaultPackage" priority="3">
+Use explicit scoping instead of the default package private level
+</violation>
+<violation beginline="18" endline="18" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'c0' is not assigned and could be declared final
+</violation>
+<violation beginline="18" endline="18" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'c1' is not assigned and could be declared final
+</violation>
+<violation beginline="18" endline="18" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'c2' is not assigned and could be declared final
+</violation>
+<violation beginline="18" endline="18" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'c3' is not assigned and could be declared final
+</violation>
+<violation beginline="18" endline="18" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'r0' is not assigned and could be declared final
+</violation>
+<violation beginline="96" endline="96" begincolumn="0" endcolumn="0" rule="MethodReturnsInternalArray" ruleset="Security Code Guidelines" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/sunsecure.html#MethodReturnsInternalArray" priority="3">
+Returning 'cells' may expose an internal array.
+</violation>
+<violation beginline="99" endline="99" begincolumn="0" endcolumn="0" rule="ArrayIsStoredDirectly" ruleset="Security Code Guidelines" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/sunsecure.html#ArrayIsStoredDirectly" priority="3">
+The user-supplied array 'cells' is stored directly.
+</violation>
+<violation beginline="104" endline="105" begincolumn="0" endcolumn="0" rule="ForLoopsMustUseBraces" ruleset="Braces Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#ForLoopsMustUseBraces" priority="3">
+Avoid using for statements without curly braces
+</violation>
+<violation beginline="109" endline="110" begincolumn="0" endcolumn="0" rule="ForLoopsMustUseBraces" ruleset="Braces Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#ForLoopsMustUseBraces" priority="3">
+Avoid using for statements without curly braces
+</violation>
+<violation beginline="114" endline="115" begincolumn="0" endcolumn="0" rule="ForLoopsMustUseBraces" ruleset="Braces Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#ForLoopsMustUseBraces" priority="3">
+Avoid using for statements without curly braces
+</violation>
+<violation beginline="119" endline="119" begincolumn="0" endcolumn="0" rule="SimplifyBooleanExpressions" ruleset="Design Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#SimplifyBooleanExpressions" priority="3">
+Avoid unnecessary comparisons in boolean expressions
+</violation>
+<violation beginline="120" endline="120" begincolumn="0" endcolumn="0" rule="IfElseStmtsMustUseBraces" ruleset="Braces Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#IfElseStmtsMustUseBraces" priority="3">
+Avoid using if...else statements without curly braces
+</violation>
+<violation beginline="122" endline="122" begincolumn="0" endcolumn="0" rule="IfElseStmtsMustUseBraces" ruleset="Braces Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/braces.html#IfElseStmtsMustUseBraces" priority="3">
+Avoid using if...else statements without curly braces
+</violation>
+<violation beginline="123" endline="123" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 's' could be declared final
+</violation>
+<violation beginline="124" endline="124" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'c' could be declared final
+</violation>
+<violation beginline="125" endline="125" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'row' could be declared final
+</violation>
+<violation beginline="126" endline="126" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'column' could be declared final
+</violation>
+<violation beginline="136" endline="139" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 't' (lines '136'-'139').
+</violation>
+<violation beginline="136" endline="140" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 't' (lines '136'-'140').
+</violation>
+<violation beginline="136" endline="141" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 't' (lines '136'-'141').
+</violation>
+<violation beginline="136" endline="142" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 't' (lines '136'-'142').
+</violation>
+<violation beginline="136" endline="143" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 't' (lines '136'-'143').
+</violation>
+<violation beginline="136" endline="144" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 't' (lines '136'-'144').
+</violation>
+<violation beginline="136" endline="145" begincolumn="0" endcolumn="0" rule="DataflowAnomalyAnalysis" ruleset="Controversial Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#DataflowAnomalyAnalysis" priority="5">
+Found 'DD'-anomaly for variable 't' (lines '136'-'145').
+</violation>
+<violation beginline="137" endline="137" begincolumn="0" endcolumn="0" rule="LocalVariableCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#LocalVariableCouldBeFinal" priority="3">
+Local variable 'num' could be declared final
+</violation>
+<violation beginline="138" endline="146" begincolumn="0" endcolumn="0" rule="SwitchStmtsShouldHaveDefault" ruleset="Design Rules" package="rc" class="Tetromino" externalInfoUrl="http://pmd.sourceforge.net/rules/design.html#SwitchStmtsShouldHaveDefault" priority="3">
+Switch statements should have a default label
+</violation>
+</file>
+<file name="src/rc/Z.java">
+<violation beginline="9" endline="18" begincolumn="0" endcolumn="0" rule="CallSuperInConstructor" ruleset="Controversial Rules" package="rc" class="Z" externalInfoUrl="http://pmd.sourceforge.net/rules/controversial.html#CallSuperInConstructor" priority="3">
+It is a good practice to call super() in a constructor
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Z" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'column' is not assigned and could be declared final
+</violation>
+<violation beginline="9" endline="9" begincolumn="0" endcolumn="0" rule="MethodArgumentCouldBeFinal" ruleset="Optimization Rules" package="rc" class="Z" externalInfoUrl="http://pmd.sourceforge.net/rules/optimizations.html#MethodArgumentCouldBeFinal" priority="3">
+Parameter 'row' is not assigned and could be declared final
+</violation>
+</file>
+</pmd>
